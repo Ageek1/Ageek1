@@ -3,6 +3,7 @@
 # note the 1 
 # find 
 # the rest 
-# and please upda
+# and please update
 * te acrhives 
 #                ok ...
+ 
